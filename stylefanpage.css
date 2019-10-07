@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+
+.title {
+    color: yellow;
+}
+
+.bio {
+    color: white;
+}
+
+.orderedlist {
+    color: #ffffff;
+}
+
+.table {
+    color: white;
+}
+
+a {
+    color: hotpink;
+}

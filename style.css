@@ -1,0 +1,10 @@
+p.styledFont {
+    text-transform: lowercase;
+    background-color: yellow;
+}
+
+#styledImage {
+    background: transparent;
+    padding: 2px;
+    border: 8px solid yellow
+}
